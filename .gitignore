@@ -1,0 +1,11 @@
+# ignore b.txt
+b.txt
+
+# ignore all files beginning with c
+c*.*
+
+# ignore all .log files
+*.log
+
+# ignore directory <f>
+f/
